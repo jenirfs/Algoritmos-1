@@ -1,1 +1,1 @@
-Como usar o git // teste // 
+Exercícios da disciplina de Algoritmos 1;
